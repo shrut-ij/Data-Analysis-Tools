@@ -1,7 +1,7 @@
 # Data Analysis Tools Labs
 
 ## Project Overview
-### This repository contains a collection of labs focused on data analysis and manipulation using Python. The labs cover various topics such as data extraction, transformation, loading (ETL), data cleaning, and visualization. The primary tools used include Pandas, SQL, and other Python libraries.
+#### This repository contains a collection of labs focused on data analysis and manipulation using Python. The labs cover various topics such as data extraction, transformation, loading (ETL), data cleaning, and visualization. The primary tools used include Pandas, SQL, and other Python libraries.
 
 ## Getting Started
 
